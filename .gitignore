@@ -1,0 +1,7 @@
+/.AII
+recetas/__pycache__/
+recetario/__pycache__/
+recetas/__pycache__/__init__.cpython-38.pyc
+recetas/__pycache__/settings.cpython-38.pyc
+recetas/__init__.py
+recetario/migrations/
